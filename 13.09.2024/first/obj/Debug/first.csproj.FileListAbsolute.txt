@@ -1,0 +1,7 @@
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\bin\Debug\first.exe.config
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\bin\Debug\first.exe
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\bin\Debug\first.pdb
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\obj\Debug\first.exe
+C:\Users\ogyrc\Desktop\unik doma\laba\13.09.2024\first\obj\Debug\first.pdb

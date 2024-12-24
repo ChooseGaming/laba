@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogyrc\\Desktop\\unik doma\\laba\\30.09.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1EB39F-5AAB-498A-9FFE-4726A05E1CCB}|first\\first.csproj|c:\\users\\ogyrc\\desktop\\unik doma\\laba\\30.09.2024\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1EB39F-5AAB-498A-9FFE-4726A05E1CCB}|first\\first.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ogyrc\\Desktop\\unik doma\\laba\\30.09.2024\\first\\Program.cs",
+              "RelativeDocumentMoniker": "first\\Program.cs",
+              "ToolTip": "C:\\Users\\ogyrc\\Desktop\\unik doma\\laba\\30.09.2024\\first\\Program.cs",
+              "RelativeToolTip": "first\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:04:46.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
