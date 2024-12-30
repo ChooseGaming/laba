@@ -1,0 +1,7 @@
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\bin\Debug\main.exe.config
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\bin\Debug\main.exe
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\bin\Debug\main.pdb
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\obj\Debug\main.exe
+C:\Users\Егор\Desktop\Uni\RGR\laba\25.11.2024\main\obj\Debug\main.pdb
