@@ -1,0 +1,7 @@
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\bin\Debug\main.exe.config
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\bin\Debug\main.exe
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\bin\Debug\main.pdb
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\obj\Debug\main.exe
+C:\Users\ogyrc\Desktop\unik doma\laba\28.10.2024\main\obj\Debug\main.pdb
