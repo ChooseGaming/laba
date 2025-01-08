@@ -1,0 +1,7 @@
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\bin\Debug\POEZDA.exe.config
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\bin\Debug\POEZDA.exe
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\bin\Debug\POEZDA.pdb
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\obj\Debug\POEZDA.csproj.AssemblyReference.cache
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\obj\Debug\POEZDA.csproj.CoreCompileInputs.cache
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\obj\Debug\POEZDA.exe
+C:\Users\ogyrc\Desktop\unik doma\laba\PredPoezd\POEZDA\obj\Debug\POEZDA.pdb
